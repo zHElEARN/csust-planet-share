@@ -5,15 +5,15 @@ export type AppLayoutLink = {
   href: string;
 };
 
-export const defaultLayoutTitle = "长理星球";
-export const defaultLayoutDescription = "长理星球官方页面";
+export const defaultLayoutTitle = "云岭星球";
+export const defaultLayoutDescription = "云岭星球官方页面";
 
 export const footerBrand = {
   eyebrow: "版权声明",
   iconSrc: appIconImage,
-  iconAlt: "长理星球 App Icon",
-  title: "长理星球",
-  description: "长理星球为社区开发项目，并非长沙理工大学官方产品。长沙理工大学相关校名、校徽与标识权利归长沙理工大学所有。",
+  iconAlt: "云岭星球 App Icon",
+  title: "云岭星球",
+  description: "云岭星球为社区开发项目，并非长沙理工大学官方产品。长沙理工大学相关校名、校徽与标识权利归长沙理工大学所有。",
   legalLines: ["© 2024-2026 CreaMakers", "湘ICP备2024091230号-2"],
 } as const;
 

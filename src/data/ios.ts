@@ -1,8 +1,8 @@
 import { getAppleImage } from "./assets";
 import type { InstallOption, PageSection, SourceOrganization, SourceProject } from "./shared";
 
-export const pageTitle = "长理星球 | iOS";
-export const pageDescription = "长理星球 iOS 版本简介与安装入口";
+export const pageTitle = "云岭星球 | iOS";
+export const pageDescription = "云岭星球 iOS 版本简介与安装入口";
 
 export const heroSectionId = "ios-home";
 export const featureShowcaseSectionId = "ios-feature-showcase";
@@ -173,7 +173,7 @@ export const sourceOrganization = {
 export const sourceProjects = [
   {
     title: "CSUSTPlanet",
-    description: "长理星球 iOS 客户端源码",
+    description: "云岭星球 iOS 客户端源码",
     href: "https://github.com/zHElEARN/CSUSTPlanet",
     icon: "client",
   },

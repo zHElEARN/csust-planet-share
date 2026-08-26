@@ -1,6 +1,6 @@
 # csust-planet-share
 
-这是 [长理星球](https://github.com/zHElEARN/CSUSTPlanet) 的配套分享与下载页项目，基于 Astro 和 Tailwind CSS 开发，提供响应式介绍页面及多端下载引导。
+这是 [云岭星球](https://github.com/zHElEARN/CSUSTPlanet) 的配套分享与下载页项目，基于 Astro 和 Tailwind CSS 开发，提供响应式介绍页面及多端下载引导。
 
 ## 构建
 

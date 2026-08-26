@@ -1,7 +1,7 @@
 import type { InstallOption, PageSection, SourceOrganization, SourceProject } from "./shared";
 
-export const pageTitle = "长理星球 | Android";
-export const pageDescription = "长理星球 Android 版本简介与安装入口";
+export const pageTitle = "云岭星球 | Android";
+export const pageDescription = "云岭星球 Android 版本简介与安装入口";
 
 export const heroSectionId = "android-home";
 export const installOptionsSectionId = "install-options";
@@ -33,7 +33,7 @@ export const sourceOrganization = {
 export const sourceProjects = [
   {
     title: "changli-planet-app",
-    description: "长理星球 Android 客户端源码",
+    description: "云岭星球 Android 客户端源码",
     href: "https://github.com/CreaMakers/changli-planet-app",
     icon: "client",
   },
